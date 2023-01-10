@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-home_text: A Web Developer and a Python enthusiast k
+home_text: A Web Developer and a Python enthusiast kp
 title: Rohit Jain
 ---
