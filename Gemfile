@@ -4,5 +4,5 @@ gem "dev-portfolio-blog"
 gem "html-proofer"
 gem "therubyracer"
 gem "therubyrhino"
-gem "execjs"
+gem "mini_racer"
 
